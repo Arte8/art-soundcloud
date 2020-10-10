@@ -1,3 +1,3 @@
 # ART-SOUNDCLOUD
 
-HTML, CSS, page for my art project.
+HTML, CSS, PHP page for my art project.
